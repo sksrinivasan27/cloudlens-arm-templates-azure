@@ -187,7 +187,7 @@
         "autoUpgradeMinorVersion": true,
         "settings": {
           "fileUris": [
-            "https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/apache2-on-ubuntu-vm/install_apache.sh"
+            "https://github.com/sksrinivasan27/cloudlens-arm-templates-azure/blob/master/install_apache.sh"
           ],
           "commandToExecute": "sh install_apache.sh"
         }
