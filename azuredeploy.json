@@ -187,7 +187,7 @@
         "autoUpgradeMinorVersion": true,
         "settings": {
           "fileUris": [
-            "https://github.com/sksrinivasan27/cloudlens-arm-templates-azure/blob/master/install_apache.sh"
+            "https://raw.githubusercontent.com/sksrinivasan27/cloudlens-arm-templates-azure/master/install_apache.sh"
           ],
           "commandToExecute": "sh install_apache.sh"
         }
